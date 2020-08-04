@@ -1,0 +1,14 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "just a todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wendah N Desmond",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1"
+  }
+}
